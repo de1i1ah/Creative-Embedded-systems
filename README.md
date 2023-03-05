@@ -7,7 +7,7 @@ MOD #1
 For this module we created a generative code installation using an Espi-32. The main purpose of this project was so use our creative abilities and techincal skills to express a poem or any text that we felt was important to us. 
 
 The hardware and software material needed to repulicate:
-- espi32
+- esp32
 - Ardunio 1.8 ide
 - driver : http://www.wch.cn/downloads/CH34XSER_MAC_ZIP.html
 - usb-c cable
